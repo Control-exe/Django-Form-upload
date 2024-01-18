@@ -1,1 +1,1 @@
-Este projeto python usa o framework Django para o back-end e usa como front o framework tailwind css. Seu funcionamento consiste em criar um formulário, recebendo dados  do tipo texto, imagem e planilha e salvando os arquivos no back e as rotas no banco. 
+Este projeto python usa o framework Django para o back-end, e como front a biblioteca tailwind css. Seu funcionamento consiste em criar um formulário, recebendo dados  do tipo texto, imagem e planilha e salvando os arquivos no back e as rotas no banco(PostgreSQL). 
